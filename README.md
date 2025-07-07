@@ -1,4 +1,4 @@
-## Olá, eu sou Inácia de Jesus, Desenvolvedora Fntend👋
+## Olá, eu sou Inácia de Jesus, Desenvolvedora Frontend👋
 
 
 <div style="display: inline_block"><br>
