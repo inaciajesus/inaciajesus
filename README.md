@@ -1,4 +1,9 @@
-## Olá, eu sou Inácia de Jesus, Desenvolvedora Frontend👋
+ # 👩🏻‍💻 Inácia de Jesus,
+ 
+**` Desenvolvedora Frontend👋`**
+
+Me chamo Inácia, tenho 20 anos, actualmente residente em Lunda, município de Viana.
+Sou estudante do segundo ano do ensino superior no curso de Engenharia  Informática, estou voltada na área do desenvolvimento web. 
 
 
 <div style="display: inline_block"><br>
