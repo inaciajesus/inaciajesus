@@ -1,43 +1,56 @@
- # 👩🏻‍💻 Inácia de Jesus,
- 
-**` Desenvolvedora Frontend👋`**
+<h1 align="center">Bem-vinda(o) ao meu perfil! 👋</h1>
 
-Me chamo Inácia, tenho 20 anos, actualmente residente em Lunda, município de Viana.
-Sou estudante do segundo ano do ensino superior no curso de Engenharia  Informática, estou voltada na área do desenvolvimento web. 
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Inacia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Inacia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Inacia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Inacia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/nayara_comercios?igsh=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:inaciadejesus11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/in%C3%A1ciadejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=inaciajesus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciajesus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <strong>Inácia | Desenvolvedora Frontend</strong><br/>
+  Estudante de Engenharia Informática | Apaixonada por Web e Tecnologia
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding girl gif"/>
+</p>
+
+---
+
+### 👩‍💻 Sobre mim
+
+- 🎓 Estudante do 2º ano de **Engenharia Informática**
+- 📍 Residente em **Lunda**, município de **Viana**
+- 👧 Tenho **20 anos**
+- 💻 Interesse especial por **Desenvolvimento Web**, interfaces intuitivas e experiências digitais
+- 🌱 Estou constantemente aprendendo, evoluindo e construindo projetos práticos
+
+---
+
+### 💼 Tecnologias em prática
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📚 Atualmente aprendendo
+
+- 🧠 Fundamentos de **lógica de programação** e **algoritmos**
+- 💡 **JavaScript**
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teu-usuario&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-usuario&layout=compact&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+</p>
+
+---
+
+### 🌐 Vamos nos conectar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 Emai
