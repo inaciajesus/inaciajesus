@@ -41,16 +41,35 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teu-usuario&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-usuario&layout=compact&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=inaciajesus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciajesus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-### 🌐 Vamos nos conectar
+</p> <br> <br> <br>    <br>  
+    <br>  
+    <br>
+     <br>  <br>  <br>  <br>
+
+ ---
+
+
+ ### 🌐 Vamos nos conectar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 - 📧 Emai
+
+---
